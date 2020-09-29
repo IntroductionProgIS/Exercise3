@@ -2,12 +2,12 @@
 
 The aim of this exercise is to create a color picker containing:
 
-  - **1 A List of Sliders** to modify and navigate each color
-  - **2 A List of Textfields** to modify each color by inputing the proper value
-  - **3 A textField for Hexadecimal** to view and/or input the color value in hexadecimal
-  - **4 A Square view** to show the color resulting from the parameters
+  - **A List of Sliders** to modify and navigate each color
+  - **A List of Textfields** to modify each color by inputing the proper value
+  - **A textField for Hexadecimal** to view and/or input the color value in hexadecimal
+  - **A Square view** to show the color resulting from the parameters
 
-<p align="center"><img src="/img/colorPicker.png" width="300"></p>
+<p align="center"><img src="/img/ColorPicker.png" width="300"></p>
 
 
 1. Import this project in Eclipse *To import this project in eclipse, you should open Eclipse and follow these steps:*
