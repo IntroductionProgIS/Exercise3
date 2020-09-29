@@ -19,7 +19,7 @@ The aim of this exercise is to create a color picker containing:
 
 > *To see the tasks that you need to do in a project: Go to Eclipse and select Window \> Show View \> Tasks*
 
-2. Setup the project properties to add the .jar from javafx to the project
+2. Setup the project properties to add the .jar from javafx to the project and add your JRE by going in the same window through *Add Librairy... \> JRE System Library \> Finish* 
 
 3. Create a run configuration for this project, inside Run As \> Run Configurations, with Main.java as the main class. Inside Arguments for this configuration, add inside the VM arguments : "--add-module=javafx.controls --add-module=javafx.fxml"
 
