@@ -7,7 +7,7 @@ The aim of this exercise is to create a color picker containing:
   - **A textField for Hexadecimal** to view and/or input the color value in hexadecimal
   - **A Square view** to show the color resulting from the parameters
 
-<p align="center"><img src="/img/ColorPicker.png" width="300"></p>
+<p align="center"><img src="/img/ColorPicker.png" width="600"></p>
 
 
 1. Import this project in Eclipse *To import this project in eclipse, you should open Eclipse and follow these steps:*
